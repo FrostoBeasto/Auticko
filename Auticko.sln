@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auticko", "Auticko\Auticko.csproj", "{55249A05-161B-4E28-8497-8C46CAFAF53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55249A05-161B-4E28-8497-8C46CAFAF53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55249A05-161B-4E28-8497-8C46CAFAF53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55249A05-161B-4E28-8497-8C46CAFAF53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55249A05-161B-4E28-8497-8C46CAFAF53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9692F058-79A6-4217-BBCD-E235D4EC15F2}
+	EndGlobalSection
+EndGlobal
